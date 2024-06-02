@@ -13,7 +13,7 @@ dbConenection();
 
 // CORS
 
-app.use(cors());
+//app.use(cors());
 
 //Directorio público
 app.use( express.static('public'));
